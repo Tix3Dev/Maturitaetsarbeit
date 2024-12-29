@@ -1,4 +1,4 @@
-# Maturitätsarbeit
+# Maturitätsarbeit - Graphical Stabilizer Decompositions for Multi-Control Toffoli Gate Dense Quantum Circuits
 
 This repository contains the [PDF document]() which was written in my last year of high-school, as part of the mandatory Maturitätsarbeit:
 
