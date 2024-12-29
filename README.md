@@ -25,4 +25,4 @@ The following list contains all the external repositories linked throughout the 
 - [https://github.com/Tix3Dev/novel_star_state_decompositions/tree/main](https://github.com/Tix3Dev/novel_star_state_decompositions/tree/main)
 - [https://github.com/Tix3Dev/feynman_loop_diagram_qsim](https://github.com/Tix3Dev/feynman_loop_diagram_qsim)
 - [https://github.com/Tix3Dev/rand_multi_ctrl_toff_dense_qcirc_sim](https://github.com/Tix3Dev/rand_multi_ctrl_toff_dense_qcirc_sim)
-- [unexpected improv]()
+- [https://github.com/Tix3Dev/unexpected_improv_of_speedy_algo](https://github.com/Tix3Dev/unexpected_improv_of_speedy_algo)
