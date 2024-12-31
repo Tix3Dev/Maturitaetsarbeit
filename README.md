@@ -6,6 +6,8 @@ This repository contains the [PDF document]() which was written in my last year 
 > high school graduates have learned todelve deeply into a freely chosen topic and to acquire the necessary working methods. The work process, from choosing the topic to structuring the work process
 > to presenting the results, is carried out with the support of a teacher. (Original [german version](https://www.mng.ch/unterricht/maturitatsarbeit/))
 
+Additionally, it contains the corresponding [presentation]().
+
 ## Abstract
 
 In this thesis, we study concepts in quantum computing using graphical languages, specifically using the ZX-calculus. The core of the research revolves around
