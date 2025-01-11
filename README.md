@@ -1,6 +1,6 @@
 # Maturitätsarbeit - Graphical Stabilizer Decompositions for Multi-Control Toffoli Gate Dense Quantum Circuits
 
-This repository contains the [PDF document]() which was written in my last year of high-school, as part of the mandatory Maturitätsarbeit:
+This repository contains the [PDF document](https://github.com/Tix3Dev/Maturitaetsarbeit/blob/main/Thesis.pdf) which was written in my last year of high-school, as part of the mandatory Maturitätsarbeit:
 
 > In their final year, all high school graduates complete a final paper. This is a larger, written paper or a written commentary on a topic of their own choosing. As a final paper, it shows that the
 > high school graduates have learned todelve deeply into a freely chosen topic and to acquire the necessary working methods. The work process, from choosing the topic to structuring the work process
@@ -24,7 +24,7 @@ These results are discussed by considering different simplification strategies. 
 
 The following list contains all the external repositories linked throughout the thesis:
 
-- [https://github.com/Tix3Dev/novel_star_state_decompositions/tree/main](https://github.com/Tix3Dev/novel_star_state_decompositions/tree/main)
+- [https://github.com/Tix3Dev/novel_star_state_decompositions](https://github.com/Tix3Dev/novel_star_state_decompositions)
 - [https://github.com/Tix3Dev/feynman_loop_diagram_qsim](https://github.com/Tix3Dev/feynman_loop_diagram_qsim)
 - [https://github.com/Tix3Dev/rand_multi_ctrl_toff_dense_qcirc_sim](https://github.com/Tix3Dev/rand_multi_ctrl_toff_dense_qcirc_sim)
 - [https://github.com/Tix3Dev/unexpected_improv_of_speedy_algo](https://github.com/Tix3Dev/unexpected_improv_of_speedy_algo)
