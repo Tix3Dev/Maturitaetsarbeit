@@ -6,7 +6,7 @@ This repository contains the [PDF document](https://github.com/Tix3Dev/Maturitae
 > high school graduates have learned todelve deeply into a freely chosen topic and to acquire the necessary working methods. The work process, from choosing the topic to structuring the work process
 > to presenting the results, is carried out with the support of a teacher. (Original [german version](https://www.mng.ch/unterricht/maturitatsarbeit/))
 
-Additionally, it contains the corresponding [presentation]().
+Additionally, it contains the corresponding [presentation](https://github.com/Tix3Dev/Maturitaetsarbeit/blob/main/Presentation.pdf).
 
 ## Abstract
 
